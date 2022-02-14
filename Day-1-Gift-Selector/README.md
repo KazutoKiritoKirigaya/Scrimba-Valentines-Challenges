@@ -13,4 +13,4 @@
 -   Display an error message if the user doesn't fill in all the options.
 -   Add a custom checkbox for the balloon option.
 
-### 💕 By the way, Happy Valentine's Day !💕
+### 💕Happy Valentine's Day !💕
